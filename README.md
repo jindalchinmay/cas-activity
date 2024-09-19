@@ -10,3 +10,8 @@ cas global reflection writer
 
 i want this to be able to take some context for my cas activity and then given a template can produce global reflections with relevant links and sources
 - needs to be able to crawl things on its own or given a list of links, go through the links automatically and then pick where to find the information from
+
+## Write now
+- additional information like cas reflection i needt to give it 
+- fix the tool error that you were getting
+- find out which openai model that you are using
